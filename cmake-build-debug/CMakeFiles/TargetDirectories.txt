@@ -1,0 +1,3 @@
+E:/A_doing/rtos_test/RTOS_test1/cmake-build-debug/CMakeFiles/RTOS_test1.elf.dir
+E:/A_doing/rtos_test/RTOS_test1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/A_doing/rtos_test/RTOS_test1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
